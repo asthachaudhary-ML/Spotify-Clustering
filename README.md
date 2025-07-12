@@ -104,9 +104,8 @@ cluster_labels = {
 PCA-based 2D clustering plot shows how songs are grouped:
 
 ```
-X-axis: PCA Component 1  
-Y-axis: PCA Component 2  
-Color: Cluster number
+<img width="1280" height="612" alt="Figure_1" src="https://github.com/user-attachments/assets/8566fb6b-926e-4919-87e0-206779e18e97" />
+
 ```
 
 Each point is a song.
