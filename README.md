@@ -139,15 +139,6 @@ spotify-clustering-project/
 ├── README.md                   ← Project documentation
 ```
 
----
-
-## 🧑‍💻 Author
-
-**[Your Name]**  
-📫 [Your Email] · 🌐 [LinkedIn/GitHub link]
-
----
-
 ## 📜 License
 
 This project is open-source under the MIT License.
